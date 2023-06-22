@@ -1,1 +1,1 @@
-![ohmyga's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieYuQAQ)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=XieYuQAQ)
